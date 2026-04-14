@@ -1,10 +1,14 @@
 # TempCleaner-v1.0
 
-Tecnologias usadas: Python, Bibliotecas: os, shutil, schedule e PyInstaller
+## 🛠️ Tecnologias usadas:
+* *Linguagem:* Python
+* *Bibliotecas:* os, shutil, schedule, datetime e PyInstaller
 
-Funcionalidades principais: 
-Limpeza automatizada de diretorios de sistema (temp,prefetch,recycle.bin)
-gestão de cache de navegadores (google chrome)
-Sistema de Logging para auditoria de manutenção
-Deploy como executavel portável para ambientes de operação
-
+# 🚀 Funcionalidades principais:
+* *Limpeza Automatizada:* Remove arquivos de diretórios críticos como temp, prefetch e recycle.bin.
+  
+* *Otimização de Navegador:* Gestão de cache do Google Chrome.
+  
+* *Auditoria:* Sistema de Logging que registra cada operação com data e hora.
+  
+* *Portabilidade:* Deploy como executável (.exe) para rodar em qualquer máquina Windows sem necessidade de Python instalado.
