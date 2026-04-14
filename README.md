@@ -1,6 +1,6 @@
 # TempCleaner-v1.0
 
-## 🛠️ Tecnologias usadas:
+# 🛠️ Tec:
 * *Linguagem:* Python
 * *Bibliotecas:* os, shutil, schedule, datetime e PyInstaller
 
